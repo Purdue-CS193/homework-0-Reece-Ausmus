@@ -1,3 +1,10 @@
+# Reece Ausmus's First CS193 Homework
+### Things I like about CS193:
+
+- learing to use terminal
+- laid back
+- interesting topics
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,11 +18,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Reece Ausmus's First CS193 Homework
+# Heading 1
+## Heading 2
+### Heading 3
 
-- learing to use terminal
-- laid back
-- interesting topics
+- Bulleted
+- List
 
 1. Numbered
 2. List
